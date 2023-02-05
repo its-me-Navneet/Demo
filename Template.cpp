@@ -15,7 +15,7 @@ typedef tuple<string,int,int> tp;
 
 void solve(){
    
- 
+   string s="fe" ;
   
 
 }
